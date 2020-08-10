@@ -3,4 +3,4 @@
 
 ## solved.ac  
 BOJ 문제를 난이도에 따라 분류하여 학습을 도와주는 사이트입니다.  
-풀이한 문제는 solved.ac의 CLASS를 기준으로 분류하였습니다. [참고](https://solved.ac/class/)
+풀이한 문제는 solved.ac의 CLASS를 기준으로 분류하였습니다. [Link](https://solved.ac/class/)
